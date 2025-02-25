@@ -14,3 +14,5 @@ namespace ConsoleCreatures
         }
     }
 }
+
+// As seen in Codecademy's course, this is my solution.
