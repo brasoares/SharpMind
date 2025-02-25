@@ -1,0 +1,15 @@
+/home/artos/Documents/C#/Codecademy/1. Console Creatures/ConsoleCreatures/bin/Debug/net8.0/ConsoleCreatures
+/home/artos/Documents/C#/Codecademy/1. Console Creatures/ConsoleCreatures/bin/Debug/net8.0/ConsoleCreatures.deps.json
+/home/artos/Documents/C#/Codecademy/1. Console Creatures/ConsoleCreatures/bin/Debug/net8.0/ConsoleCreatures.runtimeconfig.json
+/home/artos/Documents/C#/Codecademy/1. Console Creatures/ConsoleCreatures/bin/Debug/net8.0/ConsoleCreatures.dll
+/home/artos/Documents/C#/Codecademy/1. Console Creatures/ConsoleCreatures/bin/Debug/net8.0/ConsoleCreatures.pdb
+/home/artos/Documents/C#/Codecademy/1. Console Creatures/ConsoleCreatures/obj/Debug/net8.0/ConsoleCreatures.GeneratedMSBuildEditorConfig.editorconfig
+/home/artos/Documents/C#/Codecademy/1. Console Creatures/ConsoleCreatures/obj/Debug/net8.0/ConsoleCreatures.AssemblyInfoInputs.cache
+/home/artos/Documents/C#/Codecademy/1. Console Creatures/ConsoleCreatures/obj/Debug/net8.0/ConsoleCreatures.AssemblyInfo.cs
+/home/artos/Documents/C#/Codecademy/1. Console Creatures/ConsoleCreatures/obj/Debug/net8.0/ConsoleCreatures.csproj.CoreCompileInputs.cache
+/home/artos/Documents/C#/Codecademy/1. Console Creatures/ConsoleCreatures/obj/Debug/net8.0/ConsoleCreatures.dll
+/home/artos/Documents/C#/Codecademy/1. Console Creatures/ConsoleCreatures/obj/Debug/net8.0/refint/ConsoleCreatures.dll
+/home/artos/Documents/C#/Codecademy/1. Console Creatures/ConsoleCreatures/obj/Debug/net8.0/ConsoleCreatures.pdb
+/home/artos/Documents/C#/Codecademy/1. Console Creatures/ConsoleCreatures/obj/Debug/net8.0/ConsoleCreatures.genruntimeconfig.cache
+/home/artos/Documents/C#/Codecademy/1. Console Creatures/ConsoleCreatures/obj/Debug/net8.0/ref/ConsoleCreatures.dll
+/home/artos/Documents/C#/Codecademy/1. Console Creatures/ConsoleCreatures/obj/Debug/net8.0/ConsoleCreatures.sourcelink.json
