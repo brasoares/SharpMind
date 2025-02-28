@@ -6,11 +6,13 @@ namespace ConsoleCreatures
     {
         static void Main()
         {
+            // This program prints to the console a Console Creature!
             Console.WriteLine(" .-.");
             Console.WriteLine("(o o)");
             Console.WriteLine("| O |");
             Console.WriteLine("|   |");
             Console.WriteLine("'~~~'");
+            Console.WriteLine("Console Walker!") // This creature name ;)
         }
     }
 }
